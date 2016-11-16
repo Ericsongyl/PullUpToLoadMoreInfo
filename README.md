@@ -12,3 +12,5 @@ Android实现类似“淘宝、天猫”产品详情界面，继续向上拖动�
 a、如果是向上滑动，并且滑动距离>=我们定义的距离distance，就调用ScrollView的scrollBy()方法向上滑动，使第二个页面滑到顶部；
 
 b、如果是向下滑动，并且滑动距离>=distance，同样调用ScorllView的scrollBy()方法向下滑动，使第一个页面滑动界面顶部。
+
+![pullUpToLoadMore.gif](https://github.com/Ericsongyl/PullUpToLoadMoreInfo/blob/master/pullUpToLoadMore.gif)
